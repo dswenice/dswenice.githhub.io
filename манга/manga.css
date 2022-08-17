@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(87, 136, 136);
+    text-align: center;
+}
+
+h1 {
+    background-color: antiquewhite;
+    width: 600px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-left: 350px;
+}
+
+h3 {
+    background-color: antiquewhite;
+    width: 350px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-left: 470px;
+}
+a{
+    background-color: antiquewhite;
+    width: 350px;
+    padding: 10px;
+    border-radius: 25px;
+    color: #000;
+}
